@@ -1,6 +1,6 @@
 # Home_Security_System
 * Home Security System using Arduino.
-* cpature images of the intruder.
+* Captures image of the intruder.
 * Prerequisites : Good Knowledge ofInternet Of Things.
 
 ## Softwares Used:
